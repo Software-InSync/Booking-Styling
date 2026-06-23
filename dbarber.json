@@ -235,10 +235,12 @@
 
   "custom": {
     "cards": {
-      "topBarVariant": 2,
-      "navigationBarVariant": 2,
-      "customerBookingCardVariant": 2,
-      "customerPathStepperCardVariant": 2
+      "topBarVariant": 1,
+      "navigationBarVariant": 1,
+      "customerBookingCardVariant": 4,
+      "customerPathStepperCardVariant": 4,
+      "customerBookingCategoryHeaderVariant": 3,
+      "customerBookingServiceCardVariant": 2
     }
   }
 }
