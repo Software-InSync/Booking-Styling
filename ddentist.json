@@ -259,7 +259,8 @@
       "customerBookingCardVariant": 3,
       "customerPathStepperCardVariant": 1,
       "customerBookingCategoryHeaderVariant": 4,
-      "customerBookingServiceCardVariant": 3
+      "customerBookingServiceCardVariant": 3,
+      "customerBookingWorkerCardVariant": 3
     }
   }
 }
