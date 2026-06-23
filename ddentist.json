@@ -254,10 +254,12 @@
 
   "custom": {
     "cards": {
-      "workerToday": 1,
-      "ownerToday": 2,
-      "customerBooking": 3,
-      "workerAppointments": 2
+      "topBarVariant": 2,
+      "navigationBarVariant": 2,
+      "customerBookingCardVariant": 3,
+      "customerPathStepperCardVariant": 1,
+      "customerBookingCategoryHeaderVariant": 4,
+      "customerBookingServiceCardVariant": 3
     }
   }
 }
