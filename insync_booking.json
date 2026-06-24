@@ -235,7 +235,8 @@
       "customerPathStepperCardVariant": 4,
       "customerBookingCategoryHeaderVariant": 3,
       "customerBookingServiceCardVariant": 2,
-      "customerBookingWorkerCardVariant": 2
+      "customerBookingWorkerCardVariant": 2,
+      "customerBookingLocationStepSearchVariant": 1
     }
   }
 }
