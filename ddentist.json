@@ -260,7 +260,9 @@
       "customerPathStepperCardVariant": 1,
       "customerBookingCategoryHeaderVariant": 4,
       "customerBookingServiceCardVariant": 3,
-      "customerBookingWorkerCardVariant": 3
+      "customerBookingWorkerCardVariant": 3,
+      "customerBookingLocationStepSearchVariant": 1,
+      "customerBookingEarlierSlotNotifyVariant": 1
     }
   }
 }
