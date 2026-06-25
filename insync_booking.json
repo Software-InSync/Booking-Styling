@@ -236,7 +236,8 @@
       "customerBookingCategoryHeaderVariant": 3,
       "customerBookingServiceCardVariant": 2,
       "customerBookingWorkerCardVariant": 2,
-      "customerBookingLocationStepSearchVariant": 1
+      "customerBookingLocationStepSearchVariant": 1,
+      "customerBookingEarlierSlotNotifyVariant": 2
     }
   }
 }
