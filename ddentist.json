@@ -5,135 +5,123 @@
     "lightTheme": {
       "special": {
         "primary": {
-          "base": "#7C4DFF",
-          "onTop": "#FFFFFF",
-          "container": "#E7DEFF",
-          "onContainer": "#2E146D",
-          "fixed": "#D3C2FF",
-          "fixedDim": "#A98BFF",
-          "onFixed": "#1C0B47",
-          "onFixedVariant": "#5530B8",
-          "inverse": "#B79EFF"
+          "base": "#20C8D4",
+          "onTop": "#052A2D",
+          "container": "#D8FAFC",
+          "onContainer": "#00474D",
+          "fixed": "#B7F1F4",
+          "fixedDim": "#76DEE6",
+          "onFixed": "#002528",
+          "onFixedVariant": "#00646C",
+          "inverse": "#0F8E98"
         },
         "secondary": {
-          "base": "#2BB673",
+          "base": "#446B88",
           "onTop": "#FFFFFF",
-          "container": "#D8F8E8",
-          "onContainer": "#0C4A2D",
-          "fixed": "#B6EFCF",
-          "fixedDim": "#74D8A5",
-          "onFixed": "#052616",
-          "onFixedVariant": "#187A4B"
+          "container": "#DFECF7",
+          "onContainer": "#203547",
+          "fixed": "#C2D9EB",
+          "fixedDim": "#86AFCB",
+          "onFixed": "#0F1C28",
+          "onFixedVariant": "#355772"
         },
         "tertiary": {
-          "base": "#6C7A89",
+          "base": "#6F7D90",
           "onTop": "#FFFFFF",
-          "container": "#E8EDF2",
-          "onContainer": "#2F3943",
-          "fixed": "#D2DAE2",
-          "fixedDim": "#A8B6C3",
-          "onFixed": "#1A232B",
-          "onFixedVariant": "#52606D"
+          "container": "#EEF2F6",
+          "onContainer": "#374250",
+          "fixed": "#D9E2EA",
+          "fixedDim": "#B6C4D1",
+          "onFixed": "#1E2933",
+          "onFixedVariant": "#536272"
         },
         "surface": {
-          "base": "#FEFEFF",
-          "tint": "#7C4DFF",
-          "onTop": "#17151D",
-          "variant": "#F1EFF7",
-          "onVariant": "#58536A",
-          "inverse": "#211D2A",
-          "onInverse": "#F8F6FF",
+          "base": "#FFFFFF",
+          "tint": "#20C8D4",
+          "onTop": "#162028",
+          "variant": "#F3FAFB",
+          "onVariant": "#50616D",
+          "inverse": "#1B242A",
+          "onInverse": "#FFFFFF",
           "bright": "#FFFFFF",
-          "dim": "#ECE8F4",
-          "container": "#FCFBFF",
-          "containerHigh": "#F6F3FC",
-          "containerHighest": "#EFEAF8",
+          "dim": "#EDF4F6",
+          "container": "#FCFEFE",
+          "containerHigh": "#F6FBFC",
+          "containerHighest": "#EDF7F8",
           "containerLow": "#FFFFFF",
           "containerLowest": "#FFFFFF"
         }
       },
-
-      "background": "#F7F5FC",
-      "onBackground": "#1C1A22",
-
+      "background": "#F6FBFC",
+      "onBackground": "#172128",
       "error": "#D64545",
       "onError": "#FFFFFF",
-
-      "errorContainer": "#FFDAD6",
+      "errorContainer": "#FFDAD7",
       "onErrorContainer": "#410002",
-
       "scrim": "#000000",
-
-      "outline": "#8D79D6",
-      "outlineVariant": "#C8BEEB"
+      "outline": "#8FB9BF",
+      "outlineVariant": "#C9D9DC"
     },
-
     "darkTheme": {
       "special": {
         "primary": {
-          "base": "#B79EFF",
-          "onTop": "#2E146D",
-          "container": "#5530B8",
-          "onContainer": "#E7DEFF",
-          "fixed": "#D3C2FF",
-          "fixedDim": "#A98BFF",
-          "onFixed": "#1C0B47",
-          "onFixedVariant": "#5530B8",
-          "inverse": "#7C4DFF"
+          "base": "#20C8D4",
+          "onTop": "#002528",
+          "container": "#00545A",
+          "onContainer": "#D8FAFC",
+          "fixed": "#B7F1F4",
+          "fixedDim": "#76DEE6",
+          "onFixed": "#002528",
+          "onFixedVariant": "#00646C",
+          "inverse": "#7DE6EC"
         },
         "secondary": {
-          "base": "#74D8A5",
-          "onTop": "#0C4A2D",
-          "container": "#187A4B",
-          "onContainer": "#D8F8E8",
-          "fixed": "#B6EFCF",
-          "fixedDim": "#74D8A5",
-          "onFixed": "#052616",
-          "onFixedVariant": "#187A4B"
+          "base": "#8EB8D4",
+          "onTop": "#12222D",
+          "container": "#27485C",
+          "onContainer": "#DFECF7",
+          "fixed": "#C2D9EB",
+          "fixedDim": "#86AFCB",
+          "onFixed": "#102028",
+          "onFixedVariant": "#537A96"
         },
         "tertiary": {
-          "base": "#A8B6C3",
-          "onTop": "#2F3943",
-          "container": "#52606D",
-          "onContainer": "#E8EDF2",
-          "fixed": "#D2DAE2",
-          "fixedDim": "#A8B6C3",
-          "onFixed": "#1A232B",
-          "onFixedVariant": "#52606D"
+          "base": "#B2C1CF",
+          "onTop": "#1C242B",
+          "container": "#384650",
+          "onContainer": "#EEF2F6",
+          "fixed": "#D9E2EA",
+          "fixedDim": "#B6C4D1",
+          "onFixed": "#1B252D",
+          "onFixedVariant": "#667483"
         },
         "surface": {
-          "base": "#131118",
-          "tint": "#B79EFF",
-          "onTop": "#F4F1FB",
-          "variant": "#2A2535",
-          "onVariant": "#BEB5D1",
-          "inverse": "#F4F1FB",
-          "onInverse": "#17151D",
-          "bright": "#393347",
-          "dim": "#0E0C12",
-          "container": "#1A1721",
-          "containerHigh": "#241F2D",
-          "containerHighest": "#30293B",
-          "containerLow": "#15121B",
-          "containerLowest": "#0B0910"
+          "base": "#141B20",
+          "tint": "#20C8D4",
+          "onTop": "#EEF8FA",
+          "variant": "#1F2A31",
+          "onVariant": "#B7C7D0",
+          "inverse": "#F5FCFD",
+          "onInverse": "#141B20",
+          "bright": "#293640",
+          "dim": "#0F1418",
+          "container": "#182127",
+          "containerHigh": "#202C34",
+          "containerHighest": "#293741",
+          "containerLow": "#12191E",
+          "containerLowest": "#0B1014"
         }
       },
-
-      "background": "#0E0C12",
-      "onBackground": "#F4F1FB",
-
+      "background": "#0F1519",
+      "onBackground": "#EDF8FA",
       "error": "#FF6B6B",
-      "onError": "#2A0000",
-
-      "errorContainer": "#5C1B1B",
-      "onErrorContainer": "#FFDAD6",
-
+      "onError": "#250000",
+      "errorContainer": "#5D1E1E",
+      "onErrorContainer": "#FFDAD7",
       "scrim": "#000000",
-
-      "outline": "#6F5BAA",
-      "outlineVariant": "#3B3157"
+      "outline": "#40616B",
+      "outlineVariant": "#24363D"
     },
-
     "custom": {
       "services": [
         "#03071e",
@@ -149,7 +137,6 @@
       ]
     }
   },
-
   "shapes": {
     "button": {
       "primaryButton": {
@@ -169,7 +156,6 @@
         "cornerRadius": 28
       }
     },
-
     "dialog": {
       "genericDialog": {
         "cornerStyle": "Rounded",
@@ -184,14 +170,12 @@
         "cornerRadius": 20
       }
     },
-
     "bottomSheet": {
       "genericBottomSheet": {
         "cornerStyle": "Rounded",
         "cornerRadius": 28
       }
     },
-
     "custom": {
       "workerCard": {
         "cornerStyle": "Rounded",
@@ -199,7 +183,6 @@
       }
     }
   },
-
   "typography": {
     "sizing": {
       "xs": 8,
@@ -209,40 +192,33 @@
       "xl": 20,
       "xxl": 24
     },
-
     "title": {
       "fontFamily": "System",
       "fontWeight": 700,
       "lineHeight": 40
     },
-
     "subtitle": {
       "fontFamily": "System",
       "fontWeight": 400,
       "lineHeight": 24
     },
-
     "detail": {
       "fontFamily": "System",
       "fontWeight": 200,
       "lineHeight": 24
     },
-
     "body": {
       "fontFamily": "System",
       "fontWeight": 400,
       "lineHeight": 24
     },
-
     "label": {
       "fontFamily": "System",
       "fontWeight": 500,
       "lineHeight": 20
     },
-
     "custom": {}
   },
-
   "spacing": {
     "xs": 4,
     "sm": 8,
@@ -251,7 +227,6 @@
     "xl": 32,
     "xxl": 50
   },
-
   "custom": {
     "cards": {
       "topBarVariant": 2,
