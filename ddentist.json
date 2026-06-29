@@ -231,13 +231,14 @@
     "cards": {
       "topBarVariant": 2,
       "navigationBarVariant": 2,
-      "customerBookingCardVariant": 3,
+      "customerBookingCardVariant": 5,
       "customerPathStepperCardVariant": 1,
-      "customerBookingCategoryHeaderVariant": 4,
-      "customerBookingServiceCardVariant": 3,
-      "customerBookingWorkerCardVariant": 3,
-      "customerBookingLocationStepSearchVariant": 1,
-      "customerBookingEarlierSlotNotifyVariant": 1
+      "customerBookingCategoryHeaderVariant": 3,
+      "customerBookingServiceCardVariant": 2,
+      "customerBookingWorkerCardVariant": 5,
+      "customerBookingLocationStepSearchVariant": 2,
+      "customerBookingEarlierSlotNotifyVariant": 1,
+      "customerBookingDateTimeSectionVariant": 3
     }
   }
 }
