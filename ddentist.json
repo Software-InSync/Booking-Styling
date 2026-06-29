@@ -231,7 +231,7 @@
     "cards": {
       "topBarVariant": 1,
       "navigationBarVariant": 1,
-      "customerBookingCardVariant": 5,
+      "customerBookingCardVariant": 2,
       "customerPathStepperCardVariant": 1,
       "customerBookingCategoryHeaderVariant": 3,
       "customerBookingServiceCardVariant": 2,
