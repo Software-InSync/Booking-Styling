@@ -249,9 +249,9 @@
   },
   "custom": {
     "cards": {
-      "topBarVariant": 2,
+      "topBarVariant": 3,
       "navigationBarVariant": 1,
-      "customerBookingCardVariant": 2,
+      "customerBookingCardVariant": 1,
       "customerPathStepperCardVariant": 2,
       "customerBookingCategoryHeaderVariant": 3,
       "customerBookingServiceCardVariant": 2,
