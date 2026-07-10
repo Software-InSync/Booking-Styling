@@ -249,10 +249,10 @@
   },
   "custom": {
     "cards": {
-      "topBarVariant": 3,
+      "topBarVariant": 1,
       "navigationBarVariant": 1,
-      "customerBookingCardVariant": 1,
-      "customerPathStepperCardVariant": 2,
+      "customerBookingCardVariant": 3,
+      "customerPathStepperCardVariant": 1,
       "customerBookingCategoryHeaderVariant": 3,
       "customerBookingServiceCardVariant": 2,
       "customerBookingWorkerCardVariant": 3,
