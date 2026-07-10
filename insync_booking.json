@@ -249,17 +249,17 @@
   },
   "custom": {
     "cards": {
-      "topBarVariant": 3,
+      "topBarVariant": 1,
       "navigationBarVariant": 1,
-      "customerBookingCardVariant": 3,
+      "customerBookingCardVariant": 1,
       "customerPathStepperCardVariant": 1,
-      "customerBookingCategoryHeaderVariant": 3,
-      "customerBookingServiceCardVariant": 2,
+      "customerBookingCategoryHeaderVariant": 1,
+      "customerBookingServiceCardVariant": 1,
       "customerBookingWorkerCardVariant": 3,
       "customerBookingLocationStepSearchVariant": 1,
       "customerBookingEarlierSlotNotifyVariant": 2,
       "customerBookingConfirmStepButtonPositionVariant": 1,
-      "customerBookingSummaryCardVariant": 3,
+      "customerBookingSummaryCardVariant": 1,
       "customerProfileFieldsVariant": 1,
       "customerProfileAppointmentCardVariant": 1,
       "customerProfileScreenVariant": 2
