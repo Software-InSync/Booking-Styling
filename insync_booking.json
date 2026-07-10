@@ -237,7 +237,12 @@
       "customerBookingServiceCardVariant": 2,
       "customerBookingWorkerCardVariant": 2,
       "customerBookingLocationStepSearchVariant": 1,
-      "customerBookingEarlierSlotNotifyVariant": 2
+      "customerBookingEarlierSlotNotifyVariant": 2,
+      "customerBookingConfirmStepButtonPositionVariant": 1,
+      "customerBookingSummaryCardVariant": 3,
+      "customerProfileFieldsVariant": 1,
+      "customerProfileAppointmentCardVariant": 1,
+      "customerProfileScreenVariant": 2
     }
   }
 }
