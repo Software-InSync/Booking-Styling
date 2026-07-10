@@ -249,13 +249,13 @@
   },
   "custom": {
     "cards": {
-      "topBarVariant": 1,
+      "topBarVariant": 2,
       "navigationBarVariant": 1,
-      "customerBookingCardVariant": 4,
-      "customerPathStepperCardVariant": 4,
+      "customerBookingCardVariant": 2,
+      "customerPathStepperCardVariant": 2,
       "customerBookingCategoryHeaderVariant": 3,
       "customerBookingServiceCardVariant": 2,
-      "customerBookingWorkerCardVariant": 2,
+      "customerBookingWorkerCardVariant": 3,
       "customerBookingLocationStepSearchVariant": 1,
       "customerBookingEarlierSlotNotifyVariant": 2,
       "customerBookingConfirmStepButtonPositionVariant": 1,
