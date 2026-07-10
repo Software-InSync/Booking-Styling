@@ -249,7 +249,7 @@
   },
   "custom": {
     "cards": {
-      "topBarVariant": 1,
+      "topBarVariant": 3,
       "navigationBarVariant": 1,
       "customerBookingCardVariant": 3,
       "customerPathStepperCardVariant": 1,
