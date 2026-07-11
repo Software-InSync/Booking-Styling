@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "themeVersion": "1.0.1",
+  "themeVersion": "1.0.2",
   "colors": {
     "lightTheme": {
       "special": {
@@ -260,12 +260,12 @@
             "position": 0
           },
           {
-            "color": "#DFF5FF",
+            "color": "#FF0000",
             "darken": 0,
             "position": 0.48
           },
           {
-            "color": "#94A3B8",
+            "color": "#FF0000",
             "darken": 0,
             "position": 1
           }
@@ -273,7 +273,7 @@
       },
       "spheres": [
         {
-          "color": "#4EB8E7",
+          "color": "#FF0000",
           "alpha": 0.5,
           "radiusFraction": 0.35,
           "centerXFraction": 0.25,
@@ -291,7 +291,7 @@
           "verticalOffsetInverted": false
         },
         {
-          "color": "#4EB8E7",
+          "color": "#FF0000",
           "alpha": 0.55,
           "radiusFraction": 0.45,
           "centerXFraction": 0.6,
@@ -300,7 +300,7 @@
           "verticalOffsetInverted": true
         },
         {
-          "color": "#DFF5FF",
+          "color": "#FF0000",
           "alpha": 0.65,
           "radiusFraction": 0.3,
           "centerXFraction": 0.2,
