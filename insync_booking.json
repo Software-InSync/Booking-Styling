@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "themeVersion": "1.0.0",
+  "themeVersion": "1.0.1",
   "colors": {
     "lightTheme": {
       "special": {
@@ -255,7 +255,7 @@
         "direction": "vertical",
         "stops": [
           {
-            "color": "#FFFFFF",
+            "color": "#FF0000",
             "darken": 0,
             "position": 0
           },
