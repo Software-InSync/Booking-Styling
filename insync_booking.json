@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "themeVersion": "1.0.7",
+  "themeVersion": "1.0.8",
   "colors": {
     "lightTheme": {
       "special": {
@@ -256,7 +256,7 @@
     "customer": {
       "booking": {
         "cards": {
-          "location": 1,
+          "location": 8,
           "pathStepper": 5,
           "categoryHeader": 1,
           "service": 1,
