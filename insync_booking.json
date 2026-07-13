@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "themeVersion": "1.0.8",
+  "themeVersion": "1.0.9",
   "colors": {
     "lightTheme": {
       "special": {
@@ -242,7 +242,7 @@
   "spacing": {
     "xs": 4,
     "sm": 8,
-    "md": 16,
+    "md": 36,
     "lg": 24,
     "xl": 32,
     "xxl": 50
