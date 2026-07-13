@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "themeVersion": "1.0.5",
+  "themeVersion": "1.0.6",
   "colors": {
     "lightTheme": {
       "special": {
@@ -249,7 +249,7 @@
   },
   "custom": {
     "app": {
-      "topBar": 1,
+      "topBar": 4,
       "navigationBar": 1,
       "background": 6
     },
@@ -257,7 +257,7 @@
       "booking": {
         "cards": {
           "location": 1,
-          "pathStepper": 1,
+          "pathStepper": 5,
           "categoryHeader": 1,
           "service": 1,
           "worker": 1,
