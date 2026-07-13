@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "themeVersion": "1.0.3",
   "colors": {
     "lightTheme": {
@@ -248,21 +248,33 @@
     "xxl": 50
   },
   "custom": {
-    "cards": {
-      "topBarVariant": 1,
-      "navigationBarVariant": 1,
-      "customerBookingCardVariant": 1,
-      "customerPathStepperCardVariant": 1,
-      "customerBookingCategoryHeaderVariant": 1,
-      "customerBookingServiceCardVariant": 1,
-      "customerBookingWorkerCardVariant": 1,
-      "customerBookingLocationStepSearchVariant": 1,
-      "customerBookingEarlierSlotNotifyVariant": 2,
-      "customerBookingConfirmStepButtonPositionVariant": 1,
-      "customerBookingSummaryCardVariant": 1,
-      "customerProfileFieldsVariant": 1,
-      "customerProfileAppointmentCardVariant": 1,
-      "customerProfileScreenVariant": 2
-    }
+    "app": {
+      "topBar": 1,
+      "navigationBar": 1,
+      "background": 6
+    },
+    "customer": {
+      "booking": {
+        "cards": {
+          "location": 1,
+          "pathStepper": 1,
+          "categoryHeader": 1,
+          "service": 1,
+          "worker": 1,
+          "search": 1,
+          "earlierSlotNotify": 2,
+          "dateTime": 1,
+          "confirmStepButtonPosition": 1,
+          "summary": 1
+        }
+      },
+      "profile": {
+        "fields": 1,
+        "appointment": 1,
+        "screen": 2
+      }
+    },
+    "owner": {},
+    "worker": {}
   }
 }
