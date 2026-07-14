@@ -270,7 +270,7 @@
       },
       "profile": {
         "fields": 1,
-        "appointment": 1,
+        "appointment": 2,
         "screen": 2
       }
     },
